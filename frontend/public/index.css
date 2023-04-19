@@ -1,0 +1,186 @@
+html {
+  height: 100vh;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #ededed !important;
+  font-family: "DM Sans", sans-serif;
+  overflow: hidden;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.account-buttons {
+  float: right;
+}
+
+.add-button {
+  margin: 1%;
+}
+
+.btn-primary {
+  background-color: #004a7c;
+  border-color: #004a7c;
+}
+
+.btn-primary:hover {
+  background-color: #ededed;
+  border-color: #004a7c;
+  color: #004a7c;
+}
+
+.btn-outline-primary {
+  border-color: #004a7c;
+  color: #004a7c;
+}
+
+.btn-outline-primary:hover {
+  background-color: #004a7c;
+  border-color: #004a7c;
+}
+
+.datetime td {
+  width: 50%;
+}
+
+.dropdown-menu {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  border: none;
+}
+
+.footer-container {
+  width: 100%;
+  margin-top: 3%;
+  padding-left: 4%;
+}
+
+.form-container {
+  padding: 4%;
+}
+
+.form-signin {
+  background-color: white !important;
+  border-radius: 5px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.greeting-part {
+  text-align: right;
+}
+
+.hero-auth {
+  margin: auto;
+}
+
+.hero-landing {
+  padding: 0 !important;
+}
+
+.link {
+  text-decoration: none;
+}
+
+.login-button {
+  margin: 4%;
+}
+
+.login-input {
+  background-color: #ededed;
+  border-color: white;
+}
+
+.main-container {
+  margin-right: 0;
+}
+
+.my-col {
+  height: 482px;
+  overflow: auto;
+}
+
+.nav-container {
+  width: 100%;
+  padding: 5% 5% 3% 5%;
+}
+
+.profile-button {
+  margin-left: 12%;
+  width: 40%;
+}
+
+.profile-card {
+  border: none;
+}
+
+.profile-info-container {
+  padding-right: 6%;
+}
+
+.profile-info-inner {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  height: 440px;
+}
+
+.profile-sidebar {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-left: 12%;
+}
+
+.quote {
+  margin: auto;
+  padding: 10px;
+}
+
+.disp {
+  margin: 6%;
+}
+
+.mybtn button {
+  border-radius: 25px;
+}
+
+.schedule-form-container {
+  padding: 2%;
+}
+
+.sidebar {
+  margin: 0 !important;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.sidebar-buttons button {
+  display: block;
+  margin-top: 45%;
+  margin-bottom: 45%;
+}
+
+.timetable-container {
+  padding: 4% 1%;
+}
+
+.timetable-inner {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.toggle-container {
+  margin: 0;
+}
+
+.toggle-container button {
+  border-radius: 25px;
+  display: block;
+  margin-bottom: 5px;
+  width: 100%;
+}
+
+.user-card,
+.custom-card {
+  border: none;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
