@@ -14,6 +14,10 @@ function Header(props) {
     setRefTime(newRefTime);
   }
 
+  // function clicked(e) {
+  //   console.log(e.target.innerText);
+  // }
+
   setInterval(updateTime, 1000);
   const day = new Date().toDateString();
   let greeting = "";
@@ -54,6 +58,7 @@ function Header(props) {
               type="button"
               data-bs-toggle="dropdown"
               aria-expanded="false"
+              // onClick={clicked}
             >
               {greeting}
             </button>
